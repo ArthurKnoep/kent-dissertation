@@ -1,0 +1,53 @@
+\begin{thebibliography}{10}
+
+\bibitem{das2019mfa}
+S.~Das, B.~Wang, and L.~J. Camp, ``Mfa is a waste of time! understanding
+  negative connotation towards mfa applications via user generated content,''
+  2019.
+
+\bibitem{comarketing_2019}
+Comarketing, ``Les chiffres du mobile en france et en europe,'' Apr 2019.
+\newblock
+  \url{https://comarketing-news.fr/les-chiffres-du-mobile-en-france-et-en-europe}.
+
+\bibitem{sound_proof}
+N.~Karapanos, C.~Marforio, C.~Soriente, and S.~Capkun, ``Sound-proof: Usable
+  two-factor authentication based on ambient sound,'' in {\em 24th {USENIX}
+  Security Symposium ({USENIX} Security 15)}, (Washington, D.C.), pp.~483--498,
+  {USENIX} Association, Aug. 2015.
+
+\bibitem{wiki:SHA-2}
+Wikipedia, ``{SHA-2} --- {W}ikipedia{,} the free encyclopedia.''
+  \url{http://fr.wikipedia.org/w/index.php?title=SHA-2&oldid=169613396}, 2020.
+\newblock [Online; accessed 20-July-2020].
+
+\bibitem{wiki:HMAC}
+Wikipedia, ``{HMAC} --- {W}ikipedia{,} the free encyclopedia.''
+  \url{http://en.wikipedia.org/w/index.php?title=HMAC&oldid=967942573}, 2020.
+\newblock [Online; accessed 21-July-2020].
+
+\bibitem{1495392}
+A.~{Madhavapeddy}, R.~{Sharp}, D.~{Scott}, and A.~{Tse}, ``Audio networking:
+  the forgotten wireless technology,'' {\em IEEE Pervasive Computing}, vol.~4,
+  no.~3, pp.~55--60, 2005.
+
+\bibitem{ChirpCast}
+F.~Iannacci and Y.~Huang, ``Chirpcast: Data transmission via audio,'' {\em
+  ArXiv}, vol.~abs/1508.07099, 2015.
+
+\bibitem{DTMFfeasibility}
+T.~Nguyen and L.~G. Bushnell, ``Feasibility study of dtmf communications for
+  robots,'' {\em Dept of EE, University of Washington Seattle WA},
+  pp.~98195--2500, 2004.
+
+\bibitem{can_i_use}
+``Can i use... support tables for web audio api.''
+  \url{https://caniuse.com/#feat=audio-api}.
+\newblock [Online; accessed 08-August-2020].
+
+\bibitem{can_i_use_crypto}
+``Can i use... support tables for web cryptography api.''
+  \url{https://caniuse.com/#feat=cryptography}.
+\newblock [Online; accessed 24-August-2020].
+
+\end{thebibliography}
